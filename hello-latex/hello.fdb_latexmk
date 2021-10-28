@@ -1,0 +1,15 @@
+# Fdb version 3
+["pdflatex"] 1635344878 "c:/Dev/scratch/hello-latex/hello.tex" "hello.pdf" "hello" 1635344878
+  "C:/Users/Arunabh/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1635343236 9727316 3ad28cc1d6f9bc6dda2deccd47e8d679 ""
+  "C:/Users/Arunabh/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1635344720 81107 70b8516c68c2e617189c5e44bfd16b96 ""
+  "C:/Users/Arunabh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
+  "C:/Users/Arunabh/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1623741700 20144 0fe9067680219956678b52f12bdce8ee ""
+  "C:/Users/Arunabh/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1623741700 8448 05e1c6a8fc5db344ed9d7aeb299acbce ""
+  "C:/Users/Arunabh/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1634577016 29971 6c47712bf4bc87d15b2ca318615f75a3 ""
+  "c:/Dev/scratch/hello-latex/hello.tex" 1635344877 151 77182f94c359ad69e5b6b30784f028c0 ""
+  "hello.aux" 1635344878 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "hello.tex" 1635344877 151 77182f94c359ad69e5b6b30784f028c0 ""
+  (generated)
+  "hello.log"
+  "hello.aux"
+  "hello.pdf"
